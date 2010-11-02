@@ -1,3 +1,13 @@
+# general
+.DS_Store
+Thumbs.db
+*~
+*.pyc
+
+#/
+.bundle
+.project
+
 pkg/*
 NOTES
 test/__workdir
