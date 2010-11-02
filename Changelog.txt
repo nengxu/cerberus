@@ -1,5 +1,10 @@
 = Cerberus Changelog
 
+== Current
+Removed the ambiguous tag 'HEAD', by doing:
+git tag -d HEAD
+git push origin :refs/tags/HEAD
+
 == Version 0.7.8
 Added channel password option to IRC publisher
 
