@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{cerberus}
-  s.version = "0.7.6"
+  s.version = "0.7.8"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Craig P Jolicoeur"]
-  s.date = %q{2010-03-19}
+  s.date = %q{2010-11-02}
   s.default_executable = %q{cerberus}
   s.description = %q{Cerberus is a Continuous Integration software for Ruby projects. CI helps you keep your project in a good shape. Cerberus could be easily invoked from Cron (for Unix) or nnCron (for Windows) utilities.}
   s.email = %q{cpjolicoeur@gmail.com}
